@@ -1,3 +1,4 @@
+![logo]("[C:\Users\acer\Downloads\banner.png](https://www.canva.com/design/DAGOGa2ovGU/yCbckgFLSzWSsWosxsJKtQ/edit)")
 <h1 align="center">Hi 👋, I'm Rinki Sharma</h1>
 <h3 align="center">“Frontend developer from India, at the beginning of my journey to create user-friendly and visually appealing websites.”</h3>
 <img align = "right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?rs=1&pid=ImgDetMain">
