@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rinki2400/Rinki2400/blob/main/Rinki%20Sharma.jpg)
 <h1 align="center">Hi 👋, I'm Rinki Sharma</h1>
-<h3 align="center">“Frontend developer from India, at the beginning of my journey to create user-friendly and visually appealing websites.”</h3>
+<h3 align="center">“Full-stack developer from India, passionate about creating seamless, functional, and visually appealing websites with both frontend and backend expertise.”</h3>
 <img align = "right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.nWQ_U5NKEfNeGCTfh_2-MwHaEq?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinki2400&label=Profile%20views&color=0e75b6&style=flat" alt="rinki2400" /> </p>
